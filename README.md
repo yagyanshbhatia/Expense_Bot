@@ -1,9 +1,8 @@
 # Expense_Bot
-Hello there!
-This is an expense bot that keeps track of your daily expenses as well keeps track of your loans
-just tell the bot your expense and it will automatically classify and remember the data for you
-whenever you feel like you need to start again, just reset the data!
-when you need to see the statistics, simply ask the bot to show you the stats and it will show you detailed 
+
+This is an conversational multiplatform bot that keeps track of your daily expenses as well your loans
+The bot automatically classifies and remembers the data for you, whenever you feel like you need to start again, just reset the data!
+To see the statistics, simply ask the bot to show you the stats and it will show you detailed 
 information about your expenditure.
 
 **NOTE**:
