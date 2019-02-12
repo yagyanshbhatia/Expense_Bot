@@ -17,7 +17,7 @@ we have tried to make it syntax free (it understands what is your intent behind 
 so usually stick around with simple language while interacing with the bot.
 
 
-see it working ![here](https://bot.dialogflow.com/8d13d47e-746d-4796-b76e-eefa019e876d)! 
+see it working [here](https://bot.dialogflow.com/8d13d47e-746d-4796-b76e-eefa019e876d)! 
 
 
 
